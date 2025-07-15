@@ -35,3 +35,7 @@ https://github.com/Annif276/EXAMEN-DOCKER
 ```
 https://github.com/Lucianot21/Examen/tree/main
 ```
+## Charifia :
+```
+https://github.com/bemanafanacharifia/charifia-cheat-cheat
+```
