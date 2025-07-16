@@ -45,7 +45,7 @@ https://github.com/AntemaHarisambatra/Exam-Docker.git
 ```
 ## Nomena :
 ```
-git@github.com:Nouxy-tech/docker_exam.git
+git@github.com/Nouxy-tech/docker_exam.git
 ```
 ## 171/LA/24-25 MIALISOA Nomenjanahary Ivalina :
 ```
