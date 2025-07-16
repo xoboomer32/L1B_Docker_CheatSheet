@@ -1,6 +1,5 @@
 # 🐳 L1B Docker_Exam_CheatSheets
-> Bonjour Docteur Sitraka, certains élèves ont préféré que nous regroupions nos dépôts GitHub dans un seul dépôt afin de les organisés.
-> Merci de votre compréhension. 
+> Bonjour Docteur Sitraka, voici le regroupement de nos dépôts GitHub dans un seul dépôt afin de les organisés. 
 
 ## ANDRIAMANAMPISOA Notahiana Princy :
 ```
