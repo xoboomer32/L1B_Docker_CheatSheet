@@ -5,15 +5,9 @@
 ```
 https://github.com/Nouxy-tech/docker_exam.git
 ```
-##167/LA/24-25 RAJAONA Valentino :
-```
-```
 ##169/LA/24-25 BEMANAFANA CHARIFIA Said Abdou :
 ```
 https://github.com/bemanafanacharifia/charifia-cheat-cheat
-```
-##170/LA/24-25 RANDRIAMANANJARA Hajamamplonona Eric Faneva :
-```
 ```
 ##171/LA/24-25 MIALISOA Nomenjanahary Ivalina :
 ```
@@ -35,15 +29,9 @@ https://github.com/Angela3263/cheatsheet.git
 ```
 https://github.com/deborahanjavidy/cheat-cheat-docker
 ```
-##178/LA/24-25 RAZAFIMANISA Ny Aiko Arifaneva :
-```
-```
 ##179/LA/24-25 RAZAKANDRAINY Maminiela Anthonio :
 ```
 https://github.com/Anthonio-rma/Examen_Docker-Anthonio-.git
-```
-##182/LA/23-29 HERIVOLOLONA Ventsoniraina :
-```
 ```
 ##183/LA/24-25 ANDRIAMIALY Tsiory Fitiavana :
 ```
@@ -61,9 +49,6 @@ https://github.com/ny-tendry/docker-cheat-sheet.git
 ```
 https://github.com/M-cy-fhzr15/Mecya_Docker_cheat_cheat.git
 ```
-##187/LA/24-25 RAKOTONIRINA Harena Sarobidy Adrian :
-```
-```
 ##188/LA/24-25 RAKOTO ABEL Narison Lucas :
 ```
 https://github.com/narisonlucas/docker-exam/blob/main/README.md
@@ -75,9 +60,6 @@ https://github.com/Nantenaina128/examen-docker.git
 ##190/LA/24-25 JOHARINIRINA Henintsoa Angelo :
 ```
 https://github.com/geloo69/Cheatsheet1.git
-```
-##191/LA/24-25 RATSIMBA Cédric Nomenjanahary :
-```
 ```
 ##192/LA/24-25 NATOETSY Mampiandra Nandrianina :
 ```
@@ -111,13 +93,7 @@ https://github.com/SakaMalawo/docker_cheat.git
 ```
 https://github.com/Lucianot21/Examen/tree/main
 ```
-##207/LA/24-25 RAZAFIARILALA Fanekena Krissaya :
-```
-```
 ##208/LA/24-25 ANNIF Tiaray Abderman Ismaël :
 ```
 https://github.com/Annif276/EXAMEN-DOCKER
-```
-##210/LA/24-25 RABEMANANJAKA Handinirina Tinah Gillio :
-```
 ```
